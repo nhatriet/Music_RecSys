@@ -1,0 +1,9 @@
+streamlit
+sqlalchemy
+spotipy
+streamlit_searchbox
+bcrypt
+streamlit-authenticator==0.3.2
+streamlit-keyup>=0.1.9
+jinja2
+yaml

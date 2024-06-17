@@ -1,0 +1,40 @@
+cookie:
+  expiry_days: 300
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    admin:
+      email: admin@gmail.com
+      failed_login_attempts: 0
+      logged_in: true
+      name: Admin
+      password: $2b$12$QDESo4eX6C6iuiP41TVtQ.ttpTyjH7.ZxiUaggtwciqq0FxB8ucJW
+      role: admin
+    ngoctran:
+      email: ngoctran@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Ngoc Tran
+      password: $2b$12$c8gxn2rBR36WTLKoXSQuU.sk0hpvUvvQUfZ6NhSG1fEMcjrppql16
+    nhatriet:
+      email: nhatriet@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Nha Triet
+      password: $2b$12$CDN2J/yjheK.wLMgXtPsz.5Ct7vv3XGTJAt8cS3kiADOABS/IBcKi
+    thuhoa:
+      email: thuhoa@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Thu Hoa
+      password: $2b$12$7r3MZhenpm.26/HD9grm3OQ95t1t5ZTxtcsxEMFALSj2CnJFVqFpe
+    tritruong:
+      email: tritruong@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Tri Truong
+      password: $2b$12$5Ynq.ecCCThMPbgYavy4gOf.W7a.JxqpP3xL/E46IGKJqziUvhcTy
+preauthorized:
+  emails:
+  - nhatriet2311@gmail.com

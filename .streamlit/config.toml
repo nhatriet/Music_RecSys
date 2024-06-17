@@ -1,0 +1,6 @@
+[client]
+showSidebarNavigation = false
+[theme]
+base="dark"
+primaryColor="#de1313"
+font="monospace"
